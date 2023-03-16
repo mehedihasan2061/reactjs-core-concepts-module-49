@@ -1,0 +1,44 @@
+[
+  {
+    "id": "64120ef7536b4eb45bb49e07",
+    "salary": 36656,
+    "name": "Warren Obrien",
+    "email": "warrenobrien@joviold.com"
+  },
+  {
+    "id": "64120ef7dda3ed4afa98fd10",
+    "salary": 6218,
+    "name": "Rita Nelson",
+    "email": "ritanelson@joviold.com"
+  },
+  {
+    "id": "64120ef72dc34dc06dba9f69",
+    "salary": 11141,
+    "name": "Alvarez Sharp",
+    "email": "alvarezsharp@joviold.com"
+  },
+  {
+    "id": "64120ef7708433b51c44dfd8",
+    "salary": 27176,
+    "name": "Tisha Calhoun",
+    "email": "tishacalhoun@joviold.com"
+  },
+  {
+    "id": "64120ef7e82b6fd55c4ef490",
+    "salary": 33385,
+    "name": "Marquita Roy",
+    "email": "marquitaroy@joviold.com"
+  },
+  {
+    "id": "64120ef7f3cf1b222a8bc882",
+    "salary": 16171,
+    "name": "Erna Snyder",
+    "email": "ernasnyder@joviold.com"
+  },
+  {
+    "id": "64120ef7a6a67dbaee5787b5",
+    "salary": 25989,
+    "name": "Aline Avila",
+    "email": "alineavila@joviold.com"
+  }
+]

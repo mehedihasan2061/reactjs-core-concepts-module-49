@@ -1,0 +1,12 @@
+.cart-detail{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin: 5px;
+}
+.cart-detail-btn{
+    background-color: blueviolet;
+    color: bisque;
+    border: none;
+    border-radius: 5px;
+}
